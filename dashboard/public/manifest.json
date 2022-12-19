@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "potato_farmer",
+  "name": "Service monitor for potato_field",
   "icons": [
     {
       "src": "favicon.ico",
